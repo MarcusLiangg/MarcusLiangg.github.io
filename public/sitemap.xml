@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/bt4221/</loc>
-    <lastmod>2026-01-21T18:44:02+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/bt3103/</loc>
-    <lastmod>2026-01-19T18:44:02+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/bt2102/</loc>
-    <lastmod>2026-01-09T18:44:02+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/internships/xstar-internship/</loc>
     <lastmod>2026-01-09T18:44:02+08:00</lastmod>
   </url><url>
@@ -19,6 +10,15 @@
   </url><url>
     <loc>http://localhost:1313/projects/is4302/</loc>
     <lastmod>2026-01-20T18:44:02+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/bt4221/</loc>
+    <lastmod>2026-01-21T18:44:02+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/bt3103/</loc>
+    <lastmod>2026-01-19T18:44:02+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/bt2102/</loc>
+    <lastmod>2026-01-09T18:44:02+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/big-data/</loc>
     <lastmod>2026-01-21T18:44:02+08:00</lastmod>
