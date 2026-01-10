@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FinTech on Marcus Liang | ML &amp; Data Analysis Portfolio</title>
+    <link>http://localhost:1313/tags/fintech/</link>
+    <description>Recent content in FinTech on Marcus Liang | ML &amp; Data Analysis Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Marcus Liang</copyright>
+    <lastBuildDate>Wed, 21 Jan 2026 18:44:02 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fintech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>P2P Loan Default Prediction System</title>
+      <link>http://localhost:1313/projects/bt4221/</link>
+      <pubDate>Wed, 21 Jan 2026 18:44:02 +0800</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/projects/bt4221/</guid>
+      <description>&lt;h3 id=&#34;about&#34;&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;With the increasing reliance on credit for daily essentials and major purchases, managing risk has become imperative for financial institutions. This project focuses on &lt;strong&gt;Lending Club&lt;/strong&gt;&amp;rsquo;s dataset available online, one of the world&amp;rsquo;s largest Peer-to-Peer (P2P) lending platforms, to address the critical challenge of &lt;strong&gt;credit default prediction&lt;/strong&gt;. Using a dataset spanning 2007 to 2020, our team aimed to identify high-risk borrowers and forecast the likelihood of loan default, enabling the firm to minimize financial losses while maximizing profitable lending opportunities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Scientist Intern | X-Star Technology</title>
+      <link>http://localhost:1313/internships/xstar-internship/</link>
+      <pubDate>Fri, 09 Jan 2026 18:44:02 +0800</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/internships/xstar-internship/</guid>
+      <description>&lt;h3 id=&#34;key-responsibilities&#34;&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Engineered predictive repayment models using Random Forest and XGBoost to identify loaner&amp;rsquo;s patterns and flag high-risk&#xA;accounts, improving loan recovery efficiency.&lt;/li&gt;&#xA;&lt;li&gt;Included in developing machine learning models to analyse financial and behavioural data for credit risk assessment, increasing&#xA;automated approval rates by ~80%; collaborated with cross-functional teams in Beijing.&lt;/li&gt;&#xA;&lt;li&gt;Architected interactive Power BI dashboards visualise repayment performance and track KPIs for dealer network, supporting&#xA;decision-making.&lt;/li&gt;&#xA;&lt;li&gt;Executed financial Vintage Analysis grouped by Months on Books (MOB) to evaluate long-term loan performance and forecast future&#xA;outcomes, such as early settlements.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;technologies-used&#34;&gt;&lt;strong&gt;Technologies Used&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Languages: Python, SQL, JavaScripts&lt;/li&gt;&#xA;&lt;li&gt;Tools: MySQL Sever, VS Code, Excel, Lark&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

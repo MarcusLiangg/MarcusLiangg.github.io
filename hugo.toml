@@ -1,0 +1,51 @@
+baseURL = "https://MarcusLiangg.github.io/"
+title = "Marcus Liang | ML & Data Analysis Portfolio"
+author = "Marcus Liang"
+copyright = "Marcus Liang"
+pagination.pagerSize = 10
+languageCode = "en"
+theme = "tailwind"
+
+[markup]
+  _merge = "deep"
+  [markup.goldmark.renderer]
+    unsafe = true # Allows you to embed HTML/Charts if needed
+
+[params]
+  # Default view shows posts, but we will use the menu to navigate sections
+  contentTypeName = "internships" 
+  # mainSections = ["internships", "projects"]
+
+  [params.header]
+    logo = "logo.webp"
+    title = "Marcus Liang"
+
+  [params.footer]
+    since = 2026
+    poweredby = true
+
+[menu]
+  # Link to your Internships folder (content/internships/)
+  [[menu.main]]
+    identifier = "internships"
+    name = "Internships"
+    pageRef = "/internships"
+    weight = 10
+
+  # Link to your Projects folder (content/projects/)
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    pageRef = "/projects"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 30
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"

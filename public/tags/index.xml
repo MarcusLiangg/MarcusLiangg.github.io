@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Marcus Liang | ML &amp; Data Analysis Portfolio</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Marcus Liang | ML &amp; Data Analysis Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Marcus Liang</copyright>
+    <lastBuildDate>Wed, 21 Jan 2026 18:44:02 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Big Data</title>
+      <link>http://localhost:1313/tags/big-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/big-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FinTech</title>
+      <link>http://localhost:1313/tags/fintech/</link>
+      <pubDate>Fri, 09 Jan 2026 18:44:02 +0800</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/fintech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Fri, 09 Jan 2026 18:44:02 +0800</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PySpark</title>
+      <link>http://localhost:1313/tags/pyspark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/pyspark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Risk Management</title>
+      <link>http://localhost:1313/tags/risk-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/risk-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>http://localhost:1313/tags/blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DAO</title>
+      <link>http://localhost:1313/tags/dao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/dao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>http://localhost:1313/tags/react/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smart Contracts</title>
+      <link>http://localhost:1313/tags/smart-contracts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/smart-contracts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solidity</title>
+      <link>http://localhost:1313/tags/solidity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/solidity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web3</title>
+      <link>http://localhost:1313/tags/web3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/web3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agile/Scrum</title>
+      <link>http://localhost:1313/tags/agile/scrum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/agile/scrum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Firebase</title>
+      <link>http://localhost:1313/tags/firebase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/firebase/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Maps API</title>
+      <link>http://localhost:1313/tags/google-maps-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/google-maps-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vue.js</title>
+      <link>http://localhost:1313/tags/vue.js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/vue.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:1313/tags/web-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Visualization</title>
+      <link>http://localhost:1313/tags/data-visualization/</link>
+      <pubDate>Fri, 09 Jan 2026 18:44:02 +0800</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>E-Commerce</title>
+      <link>http://localhost:1313/tags/e-commerce/</link>
+      <pubDate>Fri, 09 Jan 2026 18:44:02 +0800</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financing</title>
+      <link>http://localhost:1313/tags/financing/</link>
+      <pubDate>Fri, 09 Jan 2026 18:44:02 +0800</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/financing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Housing Market</title>
+      <link>http://localhost:1313/tags/housing-market/</link>
+      <pubDate>Fri, 09 Jan 2026 18:44:02 +0800</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/housing-market/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Fri, 09 Jan 2026 18:44:02 +0800</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>http://localhost:1313/tags/sql/</link>
+      <pubDate>Fri, 09 Jan 2026 18:44:02 +0800</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/tags/sql/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
